@@ -1,0 +1,353 @@
+0000.001 (0) Opened log file at time: Sun, 16 Apr 2023 22:38:26 +0000 on http://blair-portfolio.local
+0000.010 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.3 WP: 6.2 PHP: 8.1.9 (cgi-fcgi, Windows NT DESKTOP-LV55I5V 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.1M | 6M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.021 (0) Free space on disk containing Updraft's temporary directory: 400943.6 MB
+0000.032 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.041 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.078 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1681378244, seconds_ago=306462)
+0000.111 (0) Set semaphore last lock (fd) time to 2023-04-16 22:38:26
+0000.119 (0) Semaphore lock (fd) complete
+0000.148 (0) Backup run: resumption=0, nonce=9864dfd5cd98, file_nonce=9864dfd5cd98 begun at=1681684706 (0s ago), job type=backup
+0000.164 (0) Scheduling a resumption (1) after 300 seconds (1681685006) in case this run gets aborted
+0000.239 (0) Checking if we have a zip executable available
+0000.254 (0) Creation of backups of directories: beginning
+0000.280 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.060 (0) Total entities for the zip file: 602 directories, 2708 files (0 skipped as non-modified), 64.9 MB
+0002.166 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.240 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.315 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.392 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.471 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.499 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 2708 files batched, 526 (526) added so far); re-opening (prior size: 0 KB)
+0013.921 (0) A useful amount of data was added after this amount of zip processing: 13.6 s (normalised: 13.5 s, rate: 1889.3 KB/s)
+0014.026 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 600 files added (on-disk size: 7216.7 KB)
+0014.106 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 700 files added (on-disk size: 7216.7 KB)
+0014.185 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 800 files added (on-disk size: 7216.7 KB)
+0014.260 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 900 files added (on-disk size: 7216.7 KB)
+0014.339 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1000 files added (on-disk size: 7216.7 KB)
+0014.418 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1100 files added (on-disk size: 7216.7 KB)
+0014.496 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1200 files added (on-disk size: 7216.7 KB)
+0014.575 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1300 files added (on-disk size: 7216.7 KB)
+0014.655 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1400 files added (on-disk size: 7216.7 KB)
+0014.734 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1500 files added (on-disk size: 7216.7 KB)
+0014.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.5 MB, 2708 files batched, 1001 (1527) added so far); re-opening (prior size: 7216.7 KB)
+0032.993 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1600 files added (on-disk size: 13307 KB)
+0033.075 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1700 files added (on-disk size: 13307 KB)
+0033.153 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1800 files added (on-disk size: 13307 KB)
+0033.226 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 1900 files added (on-disk size: 13307 KB)
+0033.302 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2000 files added (on-disk size: 13307 KB)
+0033.377 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2100 files added (on-disk size: 13307 KB)
+0033.454 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2200 files added (on-disk size: 13307 KB)
+0033.528 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2300 files added (on-disk size: 13307 KB)
+0033.605 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2400 files added (on-disk size: 13307 KB)
+0033.682 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2500 files added (on-disk size: 13307 KB)
+0033.709 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.3 MB, 2708 files batched, 1001 (2528) added so far); re-opening (prior size: 13307 KB)
+0054.039 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2600 files added (on-disk size: 19870.8 KB)
+0054.113 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.tmp: 2700 files added (on-disk size: 19870.8 KB)
+0057.337 (0) Creating zip file manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.list-temp.tmp)
+0057.364 (0) Successfully created zip file manifest (size: 216136)
+0057.693 (0) Created plugins zip (0) - 20174.4 KB in 57.4 s (351.6 KB/s) (sha1: 739f2faf00c963ca287da5f24abf9411956c251d, sha256: 83b81dd6583ac3dacd16018198387bef5ae0a411ce4ed1987d4cb90cbe9b1f15)
+0057.727 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0057.735 (0) No remote despatch: user chose no remote backup service
+0057.744 (0) Recording as successfully uploaded: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip
+0057.764 (0) Deleting zip manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip.list.tmp)
+0057.781 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0057.791 (0) Number of backup sets in history: 5; groups (db): 1
+0057.799 (0) Examining (for databases) backup set with group_id=0, nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0057.813 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.821 (0) Examining (for databases) backup set with group_id=0, nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0057.821 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.821 (0) Examining (for databases) backup set with group_id=0, nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0057.821 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.821 (0) Examining (for databases) backup set with group_id=0, nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0057.822 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.822 (0) Examining (for databases) backup set with group_id=0, nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0057.822 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.822 (0) Number of backup sets in history: 5; groups (files): 1
+0057.830 (0) Examining (for files) backup set with nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0057.830 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.840 (0) Examining (for files) backup set with nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0057.840 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.840 (0) Examining (for files) backup set with nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0057.840 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.840 (0) Examining (for files) backup set with nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0057.840 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.840 (0) Examining (for files) backup set with nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0057.840 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.841 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0057.879 (0) Beginning creation of dump of themes (split every: 400 MB)
+0058.176 (0) Total entities for the zip file: 86 directories, 410 files (0 skipped as non-modified), 12.6 MB
+0058.258 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0058.338 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0058.417 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0058.495 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0064.385 (0) Creating zip file manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip.list-temp.tmp)
+0064.396 (0) Successfully created zip file manifest (size: 29067)
+0064.605 (0) Created themes zip (0) - 10814.3 KB in 6.7 s (1612.8 KB/s) (sha1: 61cf0ce40e6b36a12c37ad241ef7c2da1243f73f, sha256: 75f9e2141a0c39fa99f2ae5ebb0db8663b4bed7cd281be839977a908dea62b72)
+0064.633 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0064.640 (0) No remote despatch: user chose no remote backup service
+0064.647 (0) Recording as successfully uploaded: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip
+0064.664 (0) Deleting zip manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip.list.tmp)
+0064.680 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0064.689 (0) Number of backup sets in history: 5; groups (db): 1
+0064.696 (0) Examining (for databases) backup set with group_id=0, nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0064.703 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.710 (0) Examining (for databases) backup set with group_id=0, nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0064.710 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.711 (0) Examining (for databases) backup set with group_id=0, nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0064.711 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.711 (0) Examining (for databases) backup set with group_id=0, nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0064.711 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.711 (0) Examining (for databases) backup set with group_id=0, nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0064.711 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.711 (0) Number of backup sets in history: 5; groups (files): 1
+0064.718 (0) Examining (for files) backup set with nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0064.718 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.725 (0) Examining (for files) backup set with nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0064.725 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.725 (0) Examining (for files) backup set with nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0064.725 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.725 (0) Examining (for files) backup set with nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0064.725 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.725 (0) Examining (for files) backup set with nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0064.725 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.725 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0064.759 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0064.769 (0) Looking for candidates to backup in: C:\Users\blair\Local Sites\blair-portfolio\app\public/wp-content/uploads
+0064.777 (0) finding files: 2023: adding to list (1)
+0064.784 (0) finding files: ac_assets: adding to list (2)
+0064.791 (0) finding files: elementor: adding to list (3)
+0064.798 (0) finding files: unlimited_elements_cache: adding to list (4)
+0064.807 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0065.002 (0) Total entities for the zip file: 8 directories, 294 files (0 skipped as non-modified), 32.6 MB
+0065.072 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0065.142 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 294 files batched, 196 (196) added so far); re-opening (prior size: 0 KB)
+0065.614 (0) A useful amount of data was added after this amount of zip processing: 1.3 s (normalised: 1.3 s, rate: 19287.1 KB/s)
+0065.630 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.3276889324188, normalised_time=1.327312020848, max_time=65.620209932327, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0065.650 (0) Zip: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-uploads.zip.tmp: 200 files added (on-disk size: 25638.4 KB)
+0066.308 (0) Creating zip file manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-uploads.zip.list-temp.tmp)
+0066.322 (0) Successfully created zip file manifest (size: 17317)
+0066.848 (0) Created uploads zip (0) - 33358.1 KB in 2 s (16555.3 KB/s) (sha1: 6e9d3a80ef979903467a88171b49e29ac100fe50, sha256: fbd3fc8d370fa79579f0d1a68d4e5eca3c53f4ff361dd4a766745482b8e3d917)
+0066.876 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0066.883 (0) No remote despatch: user chose no remote backup service
+0066.891 (0) Recording as successfully uploaded: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-uploads.zip
+0066.910 (0) Deleting zip manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-uploads.zip.list.tmp)
+0066.927 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0066.937 (0) Number of backup sets in history: 5; groups (db): 1
+0066.944 (0) Examining (for databases) backup set with group_id=0, nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0066.945 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.955 (0) Examining (for databases) backup set with group_id=0, nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0066.955 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.955 (0) Examining (for databases) backup set with group_id=0, nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0066.955 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.955 (0) Examining (for databases) backup set with group_id=0, nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0066.955 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.955 (0) Examining (for databases) backup set with group_id=0, nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0066.955 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.956 (0) Number of backup sets in history: 5; groups (files): 1
+0066.963 (0) Examining (for files) backup set with nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0066.963 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.971 (0) Examining (for files) backup set with nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0066.971 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.971 (0) Examining (for files) backup set with nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0066.971 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.971 (0) Examining (for files) backup set with nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0066.971 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.971 (0) Examining (for files) backup set with nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0066.971 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0066.972 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0067.008 (0) Beginning backup of other directories found in the content directory (index: 0)
+0067.015 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0067.023 (0) Looking for candidates to backup in: C:\Users\blair\Local Sites\blair-portfolio\app\public/wp-content
+0067.031 (0) finding files: index.php: adding to list (1)
+0067.040 (0) finding files: plugins: skipping: this is the plugins directory
+0067.048 (0) finding files: themes: skipping: this is the themes directory
+0067.055 (0) finding files: updraft: skipping: this is the updraft directory
+0067.065 (0) finding files: upgrade: skipping: excluded by options
+0067.073 (0) finding files: uploads: skipping: this is the uploads directory
+0067.096 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0067.135 (0) Creating zip file manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-others.zip.list-temp.tmp)
+0067.146 (0) Successfully created zip file manifest (size: 43)
+0067.180 (0) Created others zip (0) - 0.1 KB in 0.1 s (1.6 KB/s) (sha1: 4828eb52945e69307a65cff276e6a65165cf29f7, sha256: d230f541f4c10bba6f4240eb145ce2429da9f1842f648459473972f956037aa2)
+0067.206 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0067.214 (0) No remote despatch: user chose no remote backup service
+0067.221 (0) Recording as successfully uploaded: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-others.zip
+0067.237 (0) Deleting zip manifest (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-others.zip.list.tmp)
+0067.253 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0067.262 (0) Number of backup sets in history: 5; groups (db): 1
+0067.270 (0) Examining (for databases) backup set with group_id=0, nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0067.270 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.278 (0) Examining (for databases) backup set with group_id=0, nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0067.278 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.278 (0) Examining (for databases) backup set with group_id=0, nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0067.278 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.278 (0) Examining (for databases) backup set with group_id=0, nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0067.278 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.278 (0) Examining (for databases) backup set with group_id=0, nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0067.278 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.278 (0) Number of backup sets in history: 5; groups (files): 1
+0067.286 (0) Examining (for files) backup set with nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0067.286 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.294 (0) Examining (for files) backup set with nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0067.294 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.294 (0) Examining (for files) backup set with nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0067.294 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.294 (0) Examining (for files) backup set with nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0067.294 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.294 (0) Examining (for files) backup set with nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0067.294 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.294 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0067.348 (0) Saving backup status to database (elements: 8)
+0067.379 (0) Beginning creation of database dump (WordPress DB)
+0067.387 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0067.461 (0) Table wp_options: Total expected rows (via COUNT): 253
+0067.469 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.587 (0) Table wp_options: Rows added in this batch (next record: 589): 249 (uncompressed bytes in this segment=1990764) in 0.15 seconds
+0067.628 (0) Table wp_options: finishing file(s) (2, 408.9 KB)
+0067.661 (0) Table wp_users: Total expected rows (via COUNT): 1
+0067.670 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.688 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1390) in 0.03 seconds
+0067.719 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0067.756 (0) Table wp_usermeta: Total expected rows (via COUNT): 25
+0067.764 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.783 (0) Table wp_usermeta: Rows added in this batch (next record: 25): 25 (uncompressed bytes in this segment=2968) in 0.04 seconds
+0067.823 (0) Table wp_usermeta: finishing file(s) (2, 1.7 KB)
+0067.859 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0067.874 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.03 seconds
+0067.917 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0067.944 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0067.952 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.968 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2141) in 0.03 seconds
+0067.997 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0068.034 (0) Table wp_links: Total expected rows (via COUNT): 0
+0068.050 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.03 seconds
+0068.081 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0068.144 (0) Table wp_postmeta: Total expected rows (approximate): 1583
+0068.199 (0) Table wp_postmeta: Rows added in this batch (next record: 2128): 1812 (uncompressed bytes in this segment=1166263) in 0.09 seconds
+0068.234 (0) Table wp_postmeta: finishing file(s) (2, 62.3 KB)
+0068.278 (0) Table wp_posts: Total expected rows (via COUNT): 299
+0068.284 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.329 (0) Table wp_posts: Rows added in this batch (next record: 349): 299 (uncompressed bytes in this segment=838141) in 0.07 seconds
+0068.375 (0) Table wp_posts: finishing file(s) (2, 38.5 KB)
+0068.419 (0) Table wp_term_relationships: Total expected rows (approximate): 4
+0068.435 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 4 (uncompressed bytes in this segment=741) in 0.02 seconds
+0068.468 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0068.501 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 3
+0068.509 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.527 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1002) in 0.04 seconds
+0068.569 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0068.608 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0068.626 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.03 seconds
+0068.665 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0068.693 (0) Table wp_terms: Total expected rows (via COUNT): 3
+0068.702 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.720 (0) Table wp_terms: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=796) in 0.03 seconds
+0068.753 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0068.805 (0) Table wp_addonlibrary_addons: Total expected rows (via COUNT): 0
+0068.822 (0) Table wp_addonlibrary_addons: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1152) in 0.04 seconds
+0068.854 (0) Table wp_addonlibrary_addons: finishing file(s) (2, 0.4 KB)
+0068.890 (0) Table wp_addonlibrary_categories: Total expected rows (via COUNT): 0
+0068.898 (0) Table wp_addonlibrary_categories: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=784) in 0.02 seconds
+0068.928 (0) Table wp_addonlibrary_categories: finishing file(s) (2, 0.4 KB)
+0068.963 (0) Table wp_e_events: Total expected rows (via COUNT): 17
+0068.970 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.989 (0) Table wp_e_events: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=4012) in 0.04 seconds
+0069.019 (0) Table wp_e_events: finishing file(s) (2, 0.8 KB)
+0069.027 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\blair\Local Sites\blair-portfolio\app\public/wp-content/updraft/backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db.gz (line 1924, C:\Users\blair\Local Sites\blair-portfolio\app\public\wp-content\plugins\updraftplus\backup.php)
+0069.037 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_options.table.tmpr590.gz (1/15/fopen): adding to final database dump
+0069.062 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_options.table.gz (2/15/fopen): adding to final database dump
+0069.070 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_users.table.tmpr2.gz (3/15/fopen): adding to final database dump
+0069.078 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_users.table.gz (4/15/fopen): adding to final database dump
+0069.086 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_usermeta.table.tmpr26.gz (5/15/fopen): adding to final database dump
+0069.094 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_usermeta.table.gz (6/15/fopen): adding to final database dump
+0069.101 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_commentmeta.table.tmpr0.gz (7/15/fopen): adding to final database dump
+0069.108 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_commentmeta.table.gz (8/15/fopen): adding to final database dump
+0069.117 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_comments.table.tmpr2.gz (9/15/fopen): adding to final database dump
+0069.124 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_comments.table.gz (10/15/fopen): adding to final database dump
+0069.132 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_links.table.tmpr0.gz (11/15/fopen): adding to final database dump
+0069.140 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_links.table.gz (12/15/fopen): adding to final database dump
+0069.147 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_postmeta.table.tmpr2129.gz (13/15/fopen): adding to final database dump
+0069.157 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_postmeta.table.gz (14/15/fopen): adding to final database dump
+0069.165 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_posts.table.tmpr350.gz (15/15/fopen): adding to final database dump
+0069.175 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_posts.table.gz (16/15/fopen): adding to final database dump
+0069.184 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_term_relationships.table.tmpr100001.gz (17/15/fopen): adding to final database dump
+0069.191 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_term_relationships.table.gz (18/15/fopen): adding to final database dump
+0069.198 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_term_taxonomy.table.tmpr4.gz (19/15/fopen): adding to final database dump
+0069.207 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_term_taxonomy.table.gz (20/15/fopen): adding to final database dump
+0069.216 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_termmeta.table.tmpr0.gz (21/15/fopen): adding to final database dump
+0069.224 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_termmeta.table.gz (22/15/fopen): adding to final database dump
+0069.231 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_terms.table.tmpr4.gz (23/15/fopen): adding to final database dump
+0069.242 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_terms.table.gz (24/15/fopen): adding to final database dump
+0069.250 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_addonlibrary_addons.table.tmpr0.gz (25/15/fopen): adding to final database dump
+0069.258 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_addonlibrary_addons.table.gz (26/15/fopen): adding to final database dump
+0069.265 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_addonlibrary_categories.table.tmpr0.gz (27/15/fopen): adding to final database dump
+0069.274 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_addonlibrary_categories.table.gz (28/15/fopen): adding to final database dump
+0069.281 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_e_events.table.tmpr18.gz (29/15/fopen): adding to final database dump
+0069.289 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db-table-wp_e_events.table.gz (30/15/fopen): adding to final database dump
+0069.319 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db.gz: finished writing out complete database file (517.2 KB)
+0069.367 (0) Total database tables backed up: 15 (backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db.gz, size: 529712, sha1: 1f7492e76d296715273071715abcd08d0cd0e74b, sha256: 1c45112a3a098f636a5dfd2b87d2f66bb6e19b71d73166a14384a1096928b4b4)
+0069.414 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 2866, C:\Users\blair\Local Sites\blair-portfolio\app\public\wp-content\plugins\updraftplus\backup.php)
+0069.433 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-plugins.zip: plugins: This file has already been successfully uploaded
+0069.440 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-themes.zip: themes: This file has already been successfully uploaded
+0069.447 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-uploads.zip: uploads: This file has already been successfully uploaded
+0069.455 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-others.zip: others: This file has already been successfully uploaded
+0069.462 (0) backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db.gz: db: This file has not yet been successfully uploaded: will queue
+0069.470 (0) Saving backup history. Total backup size: 63.3 MB
+0069.488 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0069.511 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0069.519 (0) No remote despatch: user chose no remote backup service
+0069.527 (0) Recording as successfully uploaded: backup_2023-04-16-2238_Blair_Portfolio_9864dfd5cd98-db.gz
+0069.551 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0069.562 (0) Number of backup sets in history: 6; groups (db): 1
+0069.570 (0) Examining (for databases) backup set with group_id=0, nonce=9864dfd5cd98, datestamp=1681684706 (Apr 16 2023 22:38:26)
+0069.582 (0) This backup set is the backup set just made, so will not be deleted.
+0069.582 (0) Examining (for databases) backup set with group_id=0, nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0069.582 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.591 (0) Examining (for databases) backup set with group_id=0, nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0069.591 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.591 (0) Examining (for databases) backup set with group_id=0, nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0069.591 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.591 (0) Examining (for databases) backup set with group_id=0, nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0069.591 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.591 (0) Examining (for databases) backup set with group_id=0, nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0069.591 (0) 1680597371: db: this set includes a database (backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-db.gz); db count is now 5
+0069.591 (0) 1680597371: db: over retain limit (5); will delete this database
+0069.591 (0) Delete file: backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-db.gz, service=none
+0069.600 (0) Deleting local copy (backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-db.gz)
+0069.618 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0069.629 (0) Number of backup sets in history: 6; groups (files): 1
+0069.638 (0) Examining (for files) backup set with nonce=9864dfd5cd98, datestamp=1681684706 (Apr 16 2023 22:38:26)
+0069.638 (0) This backup set is the backup set just made, so will not be deleted.
+0069.648 (0) This backup set is the backup set just made, so will not be deleted.
+0069.648 (0) This backup set is the backup set just made, so will not be deleted.
+0069.648 (0) This backup set is the backup set just made, so will not be deleted.
+0069.648 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.659 (0) Examining (for files) backup set with nonce=b7b03c0e3030, datestamp=1681378244 (Apr 13 2023 09:30:44)
+0069.659 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.659 (0) Examining (for files) backup set with nonce=f15d9fddec6e, datestamp=1681343615 (Apr 12 2023 23:53:35)
+0069.659 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.659 (0) Examining (for files) backup set with nonce=a1e02d5c649f, datestamp=1680827988 (Apr 07 2023 00:39:48)
+0069.659 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.659 (0) Examining (for files) backup set with nonce=8b5f500877dd, datestamp=1680749961 (Apr 06 2023 02:59:21)
+0069.659 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0069.659 (0) Examining (for files) backup set with nonce=ed7517d8d9ce, datestamp=1680597371 (Apr 04 2023 08:36:11)
+0069.659 (0) plugins: over retain limit (5); will delete this file entity
+0069.659 (0) themes: over retain limit (5); will delete this file entity
+0069.659 (0) uploads: over retain limit (5); will delete this file entity
+0069.659 (0) others: over retain limit (5); will delete this file entity
+0069.659 (0) Delete file: backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-plugins.zip, service=none
+0069.668 (0) Deleting local copy (backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-plugins.zip)
+0069.677 (0) Delete file: backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-themes.zip, service=none
+0069.686 (0) Deleting local copy (backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-themes.zip)
+0069.695 (0) Delete file: backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-uploads.zip, service=none
+0069.706 (0) Deleting local copy (backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-uploads.zip)
+0069.715 (0) Delete file: backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-others.zip, service=none
+0069.723 (0) Deleting local copy (backup_2023-04-04-0836_Blair_Portfolio_ed7517d8d9ce-others.zip)
+0069.745 (0) This backup set is now empty; will remove from history
+0069.753 (0) Deleting log file (log.ed7517d8d9ce.txt)
+0069.762 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0069.789 (0) Resume backup (9864dfd5cd98, 0): finish run
+0069.817 (0) Decremented the semaphore (fd) by 1
+0069.834 (0) Semaphore (fd) unlocked
+0069.842 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0069.870 (0) No email will/can be sent - the user has not configured an email address.
+0069.878 (0) The backup apparently succeeded and is now complete
